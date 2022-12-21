@@ -35,9 +35,7 @@
 ## Demonstração 👩‍💻
 <p> Você pode conferir a ladding page agora mesmo <a href="https://raphaelaferraz.github.io/Balle-bot/">clicando aqui 💜</a>
 
-
-</br>
-
+</br></br>
 
 ## Tecnologias 👩‍💻
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
