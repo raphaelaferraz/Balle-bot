@@ -19,7 +19,6 @@
 
 </br>
 
-
 <p>👀 Você pode visualizar o design diretamente no <a href="https://www.figma.com/file/OOIgUSIUYDxzV9R4oTM3f7/projeto-BalleBot?node-id=0%3A1&t=GJhuuHqkl7spiIif-1">Figma do projeto</a></p>
 
 
@@ -36,7 +35,9 @@
 ## Demonstração 👩‍💻
 <p> Você pode conferir a ladding page agora mesmo <a href="https://raphaelaferraz.github.io/Balle-bot/">clicando aqui 💜</a>
 
+
 </br>
+
 
 ## Tecnologias 👩‍💻
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
