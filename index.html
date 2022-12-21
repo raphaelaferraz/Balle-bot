@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <title>Balle Bot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/estilo.css">
+    <link rel="stylesheet" href="./assets/css/responsivo.css">
+</head>
+<body class="corpo">
+    <header class="cabecalho">
+        <div class="cabecalho__conteiner-menu">
+            <input  class="cabecalho__conteiner-menu__input" type="checkbox" id="cabecalho_menu_checkbox">
+            <label onclick="menuShow()" class="cabecalho__conteiner-menu__label" for="cabecalho_menu_checkbox"  title="Acesso às opções do cabeçalho">
+                <span class="cabecalho__conteiner-menu__label__linhas"></span>
+                <span class="cabecalho__conteiner-menu__label__linhas"></span>
+                <span class="cabecalho__conteiner-menu__label__linhas"></span>
+            </label>
+        </div>
+        <div class="cabecalho__conteiner-navegacao">
+            <nav class="cabecalho__conteiner-navegacao__navegacao">
+                <ul class="cabecalho__conteiner-navegacao__navegacao__lista" id="cabecalho_lista">
+                    <li class="cabecalho__conteiner-navegacao__navegacao__lista__item">
+                        Comunidade Ballerini
+                    </li>
+                    <li class="cabecalho__conteiner-navegacao__navegacao__lista__item">
+                        Tutorial
+                    </li>
+                    <li class="cabecalho__conteiner-navegacao__navegacao__lista__item">
+                        Open Source
+                    </li>
+                    <li class="cabecalho__conteiner-navegacao__navegacao__lista__item">
+                        Comandos
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="cabecalho__conteiner-logo">
+            <img class="cabecalho__conteiner-logo__imagem" alt="Logotipo da Balle Bot" src="./assets/img/logo.svg">
+        </div>
+    </header>
+    <main class="principal">
+        <section class="secao-inicio">
+            <h1 class="secao-inicio__titulo">Balle Bot</h1>
+            <h2 class="secao-inicio__subtitulo">Deixe a sua comunidade segura de um jeito fácil</h2>
+            <a class="secao-inicio__link">Me adicione!</a>
+        </section>
+        <div class="conteiner-linha">
+            <div class="conteiner-linha__linha"></div>
+        </div>
+        <section class="informacoes">
+            <h3 class="informacoes__titulo">O que ela faz por você?</h3>
+            <ol class="informacoes__lista">
+                <li class="informacoes__lista__item">
+                    <p class="informacoes__lista__item__paragrafo">
+                        1. Cria um <strong>sistema de verificação capcha</strong> para novos membros garantirem que não são robôs
+                    </p>
+                </li>
+                <li class="informacoes__lista__item">
+                    <p class="informacoes__lista__item__paragrafo">
+                        2. Possui um <strong>sistema de banimento automático</strong> para links suspeitos que forem enviados na comunidade
+                    </p>
+                </li>
+                <li class="informacoes__lista__item">
+                    <p class="informacoes__lista__item__paragrafo">
+                        3. <strong>Sistema de avisos e banimento manual</strong>, para pessoas administradoras utilizarem
+                    </p>
+                </li>
+            </ol>
+        </section>
+    </main>
+    <footer class="rodape">
+        <img src="./assets/img/rodape.svg" alt="Logo da Ballerini" class="rodape__imagem">
+    </footer>
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="./assets/js/script.js"></script>
+</html>
