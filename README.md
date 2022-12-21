@@ -13,12 +13,30 @@
 </br>
 
 
+## Design do Projeto 🎨
+<p style="margin-top: 1.5rem">O design da ladding page para desktop foi desenvolvido pela <a href="https://www.youtube.com/watch?v=llF6vD-RljE&t=1s&ab_channel=RafaellaBallerini">Rafaella Ballerini</a>. Já o design mobile foi desenvolvido por mim!</p>
+
+
+</br>
+
+
+<p>👀 Você pode visualizar o design diretamente no <a href="https://www.figma.com/file/OOIgUSIUYDxzV9R4oTM3f7/projeto-BalleBot?node-id=0%3A1&t=GJhuuHqkl7spiIif-1">Figma do projeto</a></p>
+
+
+</br>
+
+
 ## Status do Projeto 💻
 <h4 style="text-align: center"> 🚧✅ Completo 🚧✅ </h4>
 
 
 </br>
 
+
+## Demonstração 👩‍💻
+<p> Você pode conferir a ladding page agora mesmo <a href="https://raphaelaferraz.github.io/Balle-bot/">clicando aqui 💜</a>
+
+</br>
 
 ## Tecnologias 👩‍💻
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
@@ -39,5 +57,5 @@
  </br>
  </br>
 
- 
+
 Feito com carinho por Raphaela Ferraz ❤🎮
