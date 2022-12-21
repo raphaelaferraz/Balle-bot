@@ -107,8 +107,10 @@
         display: flex;
         justify-content: center;
         flex-direction: column;
-        align-items: center;
-        background: url("/assets/img/imagem-mobile.svg") no-repeat center;
+        align-items: center; 
+        background-image: url("../img/imagem-mobile.svg");
+        background-repeat: no-repeat;
+        background-position: center;      
         padding: 4.5rem 0;
     }
 
@@ -183,7 +185,10 @@
     .secao-inicio {
         flex-direction: column;
         align-items: flex-start;
-        background: url(/assets/img/imagem-desk.svg) no-repeat right;
+        background-image: url("../img/imagem-desk.svg");
+        background-repeat: no-repeat;
+        background-position: right;
+        opacity: 1;
     }
 
     .secao-inicio__subtitulo {
